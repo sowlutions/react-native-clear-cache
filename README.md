@@ -4,7 +4,9 @@ This app is a clone of [react-native-clear-app-cache](https://github.com/midas-g
 
 ## Getting started
 
-`$ npm install react-native-clear-cache --save` or `$ yarn add react-native-clear-cache`
+Add to your package.json:
+
+`"react-native-clear-cache": "sowlutions/react-native-clear-cache"`
 
 ### Mostly automatic installation
 
